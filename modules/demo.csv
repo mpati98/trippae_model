@@ -1,0 +1,11 @@
+,ID,Comments,like,unlike,Ner_LOC,Sentiment,Cluster
+0,,"Chia sẻ về lần đầu tiên du lịch đến Việt Nam, chị Crull trầm trồ về vẻ đẹp đất nước hình chữ S.",,,['Việt_Nam'],,
+1,,đây là đoàn khách đông nhất từ sau đại dịch Covid-19 đến nay.,,,[],,
+2,,Hy vọng rằng sẽ có nhiều đoàn khách nữa đến với Hội An trong thời gian tới.,,,['Hội_An'],,
+3,,"Bất chấp những lời cảnh báo, thậm chí chê bai thậm tệ về ý thức, nhiều du khách vẫn tiếp tục tìm tới nút giao Quốc lộ 5 lối lên Quốc lộ 1 đi Bắc Ninh - Bắc Giang, lao ra đường để chụp ảnh cùng hàng bàng lá nhỏ.",,,[],,
+4,,"Khoảng 10 ngày qua, rất nhiều người tham gia giao thông đã bày tỏ sự bức xúc trước tình trạng du khách kém ý thức, lao ra giữa đường chụp ảnh.",,,[],,
+5,1.0,"Chia sẻ về lần đầu tiên du lịch đến Việt Nam, chị Crull trầm trồ về vẻ đẹp đất nước hình chữ S.",10.0,1.0,Việt_Nam,0.0,0.0
+6,1.0,"Chia sẻ về lần đầu tiên du lịch đến Việt Nam, chị Crull trầm trồ về vẻ đẹp đất nước hình chữ S.",10.0,1.0,Việt_Nam,0.0,0.0
+7,1.0,"Chia sẻ về lần đầu tiên du lịch đến Việt Nam, chị Crull trầm trồ về vẻ đẹp đất nước hình chữ S.",10.0,1.0,Việt_Nam,0.0,0.0
+8,1.0,"Chia sẻ về lần đầu tiên du lịch đến Việt Nam, chị Crull trầm trồ về vẻ đẹp đất nước hình chữ S.",10.0,1.0,Việt_Nam,0.0,0.0
+0,1,"Chia sẻ về lần đầu tiên du lịch đến Việt Nam, chị Crull trầm trồ về vẻ đẹp đất nước hình chữ S.",10,1,Việt_Nam,0.0,0.0
